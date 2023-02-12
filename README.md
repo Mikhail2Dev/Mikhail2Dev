@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mikhail2Dev
+- 👋 Hi, I’m Mikhail Tumanov
 - 👀 I’m interested in Computer science, backend development, GameDev, Linux, Opensource projects and application architecture.
 - 🌱 I’m currently learning: GoLang and Backend.
 - 💞️ I’m looking to collaborate for backend on open source projects.
